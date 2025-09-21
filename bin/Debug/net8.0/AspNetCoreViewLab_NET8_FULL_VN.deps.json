@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AspNetCoreViewLab_NET8_FULL_VN/1.0.0": {
+        "runtime": {
+          "AspNetCoreViewLab_NET8_FULL_VN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCoreViewLab_NET8_FULL_VN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
