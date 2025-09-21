@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AspNetCoreViewLab_NET8_FULL_VN.props" />
+</Project>

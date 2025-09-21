@@ -1,0 +1,38 @@
+@model AspNetCoreViewLab_NET8_FULL_VN.Models.Book
+@{ ViewData["Title"] = "Thêm sách mới"; }
+<h2>Thêm mới sách</h2>
+
+<form asp-action="Create" method="post">
+  <div class="mb-3">
+    <label class="form-label">Tiêu đề</label>
+    <input asp-for="Title" class="form-control" />
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Tác giả (Id)</label>
+    <input asp-for="AuthorId" class="form-control" />
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Thể loại (Id)</label>
+    <input asp-for="GenreId" class="form-control" />
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Giá</label>
+    <input asp-for="Price" class="form-control" />
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Số trang</label>
+    <input asp-for="TotalPage" class="form-control" />
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Chọn hình ảnh</label>
+    <select asp-for="Image" class="form-select" asp-items="@(new Microsoft.AspNetCore.Mvc.Rendering.SelectList(ViewBag.Images))">
+      <option value="">-- Chọn ảnh --</option>
+    </select>
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Tóm tắt</label>
+    <textarea asp-for="Summary" class="form-control" rows="3"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Lưu</button>
+  <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

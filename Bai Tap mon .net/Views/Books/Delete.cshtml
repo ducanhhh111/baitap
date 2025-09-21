@@ -1,0 +1,11 @@
+@model AspNetCoreViewLab_NET8_FULL_VN.Models.Book
+@{ ViewData["Title"] = "Xóa sách"; }
+<h2>Xóa sách</h2>
+
+<h4>Bạn có chắc muốn xóa cuốn sách này?</h4>
+<div><strong>@Model.Title</strong></div>
+<form asp-action="Delete" method="post">
+  <input type="hidden" asp-for="Id" />
+  <button type="submit" class="btn btn-danger">Xóa</button>
+  <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

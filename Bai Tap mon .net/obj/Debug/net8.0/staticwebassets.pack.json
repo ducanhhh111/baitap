@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCoreViewLab_NET8_FULL_VN.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCoreViewLab_NET8_FULL_VN.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspNetCoreViewLab_NET8_FULL_VN.props",
+      "PackagePath": "build\\AspNetCoreViewLab_NET8_FULL_VN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCoreViewLab_NET8_FULL_VN.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCoreViewLab_NET8_FULL_VN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspNetCoreViewLab_NET8_FULL_VN.props",
+      "PackagePath": "buildTransitive\\AspNetCoreViewLab_NET8_FULL_VN.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

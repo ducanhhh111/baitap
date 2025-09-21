@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "GpWzHdNJJqAgVgvm8tfIeDnSt6DDM70+gzkjAck+LuA=",
+  "Source": "AspNetCoreViewLab_NET8_FULL_VN",
+  "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspNetCoreViewLab_NET8_FULL_VN\\wwwroot",
+      "Source": "AspNetCoreViewLab_NET8_FULL_VN",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b1.jpg",
+      "SourceId": "AspNetCoreViewLab_NET8_FULL_VN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "RelativePath": "images/products/b1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uww0qs4ol2",
+      "Integrity": "njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b2.jpg",
+      "SourceId": "AspNetCoreViewLab_NET8_FULL_VN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "RelativePath": "images/products/b2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uww0qs4ol2",
+      "Integrity": "njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b3.jpg",
+      "SourceId": "AspNetCoreViewLab_NET8_FULL_VN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "RelativePath": "images/products/b3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uww0qs4ol2",
+      "Integrity": "njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b4.jpg",
+      "SourceId": "AspNetCoreViewLab_NET8_FULL_VN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "RelativePath": "images/products/b4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uww0qs4ol2",
+      "Integrity": "njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b5.jpg",
+      "SourceId": "AspNetCoreViewLab_NET8_FULL_VN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "RelativePath": "images/products/b5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uww0qs4ol2",
+      "Integrity": "njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b6.jpg",
+      "SourceId": "AspNetCoreViewLab_NET8_FULL_VN",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\",
+      "BasePath": "_content/AspNetCoreViewLab_NET8_FULL_VN",
+      "RelativePath": "images/products/b6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uww0qs4ol2",
+      "Integrity": "njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\b6.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/products/b1.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b1.uww0qs4ol2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uww0qs4ol2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b2.uww0qs4ol2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uww0qs4ol2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b3.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b3.uww0qs4ol2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uww0qs4ol2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b4.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b4.uww0qs4ol2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uww0qs4ol2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b5.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b5.uww0qs4ol2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uww0qs4ol2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b6.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/b6.uww0qs4ol2.jpg",
+      "AssetFile": "C:\\Users\\Son\\Downloads\\AspNetCoreViewLab_NET8_FULL_VN\\wwwroot\\images\\products\\b6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 14:24:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uww0qs4ol2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/b6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-njDks5sbEyYMnCiEv0ZZdh8j+Yz4H/Lbf74dX4zRHt8="
+        }
+      ]
+    }
+  ]
+}

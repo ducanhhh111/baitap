@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspNetCoreViewLab_NET8_FULL_VN.props" />
+</Project>
